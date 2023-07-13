@@ -7,7 +7,7 @@ import smtplib
 class MailApp:
     def __init__(self, master):
         self.master = master
-        master.title("Sagar's Mail Application")
+        master.title("Anu's Mail Application")
         tkinter.Tk.config(master, background="lightgray")
 
         # Create the UI
